@@ -51,3 +51,4 @@ class Test_001_Login:
         print("logout")
         print("Syed")
         print("check for auto-trigger jenkins job 2 times")
+        print("check for auto-trigger jenkins job 2 times")
