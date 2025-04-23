@@ -14,6 +14,7 @@ class Test_001_Login:
         pageTitle = login.get_title()
         assert  "Swag Labs" == pageTitle
 
+    @pytest.mark.smoke
     def test_loginFunctionality(self, invokeBrowser):
         driver =invokeBrowser
         login = LoginPage(driver)
