@@ -50,6 +50,4 @@ class Test_001_Login:
     def test_logout(self):
         print("logout")
         print("Syed")
-        print("commit pushfourth")
-        print("commit pushfourth")
-        print("commit pushfourth")
+        print("check for auto-trigger jenkins job")
